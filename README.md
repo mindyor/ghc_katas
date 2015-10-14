@@ -8,6 +8,8 @@ Each of the languages will have the same katas
 
 You will need gradle and Java 8 installed for these katas
 
+Install dependencies: ```npm install``` ```npm install -g gulp```
+
 Run tests: ``` gradle test ```
 
 See all gradle tasks: ``` gradle tasks ```
